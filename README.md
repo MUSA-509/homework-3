@@ -2,6 +2,8 @@
 
 For this homework, create a new Jupyter Notebook with answers to all of the prompts below. Each of the answers should query one or more tables on the class PostgreSQL database.
 
+Please create a link through GitHub Classroom (check link through canvas: https://canvas.upenn.edu/courses/1533813/assignments/8421896?module_item_id=19270424).
+
 1. (10 points) Write a function that gives the average number of crime incidents (by type) for any given neighborhood. The function should take in an arbitrary neighborhood name and give back aggregated crime stats for that neighborhood. If an invalid neighborhood is entered, an appropriate error should be thrown. In the notebook, evaluate the function for two or three different neighborhoods.
 
 2. (10 points) Write a function that returns the number of covid tests (positive and negative) for an arbitrary Philadelphia zip code and also returns the five closest POIs (using an appropriate POI category) that would likely give testing capabilities.
